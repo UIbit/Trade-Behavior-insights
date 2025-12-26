@@ -101,49 +101,9 @@ relationship between **trader performance and market sentiment** using two datas
 - ✅ Feature importance analysis completed
 - ✅ Confusion matrix and classification report generated
 
-### **Part 8: Actionable Trading Insights**
-- ✅ **Insight 1:** Fear periods are more profitable; exploit reversals in panic
-- ✅ **Insight 2:** Focus on trader skill (discipline, sizing) over sentiment timing
-- ✅ **Insight 3:** Bad traders lose during Greed → Risk management matters
-- ✅ **Insight 4:** Position sizing increases in Fear → Contrarian strategy signal
-- ✅ **Insight 5:** Sentiment has signal but isn't dominant predictor
 
 ---
 
-## 📊 Deliverables
-
-### **1. Jupyter Notebook** (`sort.ipynb`)
-- **27 cells** complete and tested
-- All cells execute successfully
-- Organized into clear sections:
-  - Data Loading (Cells 1-2)
-  - Data Processing (Cells 3-7)
-  - Feature Engineering (Cells 8-11)
-  - Exploratory Analysis (Cells 12-17)
-  - Machine Learning (Cells 18-21)
-  - Final Insights (Cells 22-26)
-  - Summary Template (Cell 27)
-
-### **2. Documentation Files**
-- ✅ **README.md** - Project overview & report template
-- ✅ **NOTEBOOK_SUMMARY.md** - What was generated
-- ✅ **INTERPRETATION_GUIDE.md** - How to interpret findings
-- ✅ **COMPLETION_CHECKLIST.md** - Verification of all tasks
-- ✅ **.github/copilot-instructions.md** - AI agent guidance
-
-### **3. Visualizations (Publication Quality)**
-- ✅ Fear vs Greed performance comparison (4-panel)
-- ✅ Daily PnL timeline by sentiment
-- ✅ Win rate distribution analysis
-- ✅ Leverage behavior by sentiment
-- ✅ Top vs bottom account performance
-- ✅ Feature importance chart
-
-### **4. Data Files**
-- ✅ `fear_greed_index.csv` - 2,644 daily sentiment records
-- ✅ `historical_data.csv` - 211K+ trade records
-
----
 
 ## 🎓 Key Findings Summary
 
@@ -154,8 +114,6 @@ relationship between **trader performance and market sentiment** using two datas
 | **Sentiment Predictive** | 14.18% importance in ML model, 3rd highest feature | Useful signal but not dominant |
 | **Win Rate Stable** | ~36% across all sentiments | Sentiment affects size, not frequency |
 | **Leverage Uniform** | 1.0x across all regimes | Risk management is consistent |
-
----
 
 ## 📈 Model Performance
 
