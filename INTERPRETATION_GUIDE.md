@@ -187,4 +187,4 @@ dominant factor. Sentiment ranks 3rd in importance for predicting trade profitab
 
 ---
 
-Happy reporting! 📊
+Reported! 📊
