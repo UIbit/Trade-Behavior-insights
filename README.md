@@ -201,9 +201,7 @@ but trader skill is the primary driver of profitability. Sentiment ranks
 - Outliers (single large trades) skew means
 - Correlation evidence; causality unclear
 
-## Conclusion
-[YOUR CONCLUSION: 2-3 sentences summarizing findings]
-```
+
 
 
 
