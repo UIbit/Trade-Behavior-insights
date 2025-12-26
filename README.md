@@ -194,11 +194,6 @@ but trader skill is the primary driver of profitability. Sentiment ranks
   - Price level: 20%
   - Sentiment: 14% ← 3rd place
   
-**Interpretation**: Sentiment is a meaningful predictor, but what traders 
-buy/sell and at what price matters more.
-
-## Interpretation
-[INSERT YOUR ANALYSIS HERE using INTERPRETATION_GUIDE.md]
 
 ## Limitations
 - Limited to @107 token; may not generalize
