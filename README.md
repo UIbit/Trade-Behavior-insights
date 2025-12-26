@@ -65,8 +65,7 @@ A production-ready 26-cell analysis notebook with:
 
 ## 📁 Files Provided
 
-### Notebook File
-- **`sort.ipynb`** - Complete executable analysis (26 cells, all tested)
+
 
 
 
