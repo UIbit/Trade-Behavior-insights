@@ -210,42 +210,9 @@ buy/sell and at what price matters more.
 [YOUR CONCLUSION: 2-3 sentences summarizing findings]
 ```
 
----
 
-## 🎓 Learning Outcomes
 
-After this assignment, you should be able to explain:
 
-1. ✅ How to merge time-series data on dates
-2. ✅ Feature engineering for tabular ML (aggregation, rolling stats)
-3. ✅ Exploratory analysis workflow (tables → plots → models)
-4. ✅ Classification model evaluation (accuracy, confusion matrix, feature importance)
-5. ✅ How sentiment correlates with trading behavior
-6. ✅ Limitations of observational data analysis
 
----
 
-## 🔗 Quick Reference
-
-| What | Where | Details |
-|------|-------|---------|
-| Notebook | `sort.ipynb` | Cell 1: Imports, Cell 2-26: Full analysis |
-| Summary | `NOTEBOOK_SUMMARY.md` | What was generated |
-| How to Interpret | `INTERPRETATION_GUIDE.md` | Fill in Cell 26 with your analysis |
-| Data Docs | `.github/copilot-instructions.md` | Column meanings, conventions |
-| Results Table | Above in this document | Fear vs Greed comparison |
-| Plots | Cells 15, 22-25 | Publication-ready visualizations |
-
----
-
-## 💡 Pro Tips for Your Submission
-
-1. **Run the entire notebook top-to-bottom** to generate all outputs
-2. **Screenshot the plots** and include them in your report
-3. **Copy the summary table** (Fear vs Greed) into your findings
-4. **Cite specific numbers**: "Fear regimes averaged $5,185 in daily PnL..."
-5. **Mention caveats**: "While limited to @107 token, findings suggest..."
-6. **Discuss implications**: "This suggests traders are contrarian during Fear..."
-
----
 
